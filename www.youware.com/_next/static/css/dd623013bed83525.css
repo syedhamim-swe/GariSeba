@@ -1,0 +1,16 @@
+.backend-table-cell {
+    width: 74px
+}
+
+.backend-table-gap {
+    gap: 1.5rem
+}
+
+@media (max-width:639px) {
+    .backend-table-cell {
+        width: 60px
+    }
+    .backend-table-gap {
+        gap: 6px
+    }
+}

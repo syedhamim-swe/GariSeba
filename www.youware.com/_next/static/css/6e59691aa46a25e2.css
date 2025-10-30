@@ -1,0 +1,64 @@
+@font-face {
+    font-family: yourwareSans;
+    src: url(/_next/static/media/3254719f6ddd7617-s.p.woff2) format("woff2");
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: yourwareSans;
+    src: url(/_next/static/media/b0f797998670b7e2-s.p.woff2) format("woff2");
+    font-display: swap;
+    font-weight: 500;
+    font-style: normal
+}
+
+@font-face {
+    font-family: yourwareSans;
+    src: url(/_next/static/media/3dbdeb37fc22e39a-s.p.woff2) format("woff2");
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal
+}
+
+@font-face {
+    font-family: yourwareSans;
+    src: url(/_next/static/media/0569be94acb780f7-s.p.woff2) format("woff2");
+    font-display: swap;
+    font-weight: 400;
+    font-style: italic
+}
+
+@font-face {
+    font-family: yourwareSans;
+    src: url(/_next/static/media/31f8f69e5607dd50-s.p.woff2) format("woff2");
+    font-display: swap;
+    font-weight: 500;
+    font-style: italic
+}
+
+@font-face {
+    font-family: yourwareSans;
+    src: url(/_next/static/media/ac109597bad6c323-s.p.woff2) format("woff2");
+    font-display: swap;
+    font-weight: 700;
+    font-style: italic
+}
+
+@font-face {
+    font-family: yourwareSans Fallback;
+    src: local("Arial");
+    ascent-override: 66.34%;
+    descent-override: 16.59%;
+    line-gap-override: 0.00%;
+    size-adjust: 120.59%
+}
+
+.__className_40d7c6 {
+    font-family: yourwareSans, yourwareSans Fallback
+}
+
+.__variable_40d7c6 {
+    --font-youware-sans: "yourwareSans", "yourwareSans Fallback"
+}
